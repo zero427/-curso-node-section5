@@ -1,0 +1,1 @@
+[{"id":"712e72a6-8782-46a0-b15a-68ea4d04385b","desc":"Recolectar piedras del infinito","completadoEn":null},{"id":"26711ef2-eb0f-487d-a8e9-337c47b78c9b","desc":"recolectar la gema de la mente","completadoEn":null}]
